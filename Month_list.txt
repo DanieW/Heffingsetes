@@ -1,0 +1,14 @@
+Month	English Abbreviation	Afrikaans Abbreviation
+1	JAN	JAN
+2	FEB	FEBR
+3	MAR	MAR
+4	APR	APR
+5	MAY	MEI
+6	JUN	JUN
+7	JUL	JUL
+8	AUG	AUG
+9	SEP	SEPT
+10	OCT	OKT
+11	NOV	NOV
+12	DEC	DES
+
